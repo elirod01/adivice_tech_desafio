@@ -11,6 +11,9 @@ __pycache__/
 .idea/
 .vscode/
 
+Scripts
+Lib
+
 # Arquivos de sistema
 .DS_Store
 Thumbs.db
