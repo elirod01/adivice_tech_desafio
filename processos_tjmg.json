@@ -1,0 +1,400 @@
+[
+    {
+        "numero_processo": "1066534-23.2025.8.13.0024",
+        "data_autuacao": "09/10/2025 18:35:47",
+        "situacao": "MOVIMENTO",
+        "juiz": "ANTONIO LEITE DE PADUA",
+        "classe_acao": "INVENTÁRIO",
+        "orgao_julgador": {
+            "nome": "Juízo da 4ª Vara de Sucessões e Ausência da Comarca de Belo Horizonte",
+            "contato": "Fone: (31) 3330-6100 | Email: vsucessoes4@tjmg.jus.br"
+        },
+        "assuntos": [
+            {
+                "codigo": "022104",
+                "descricao": "Inventário e Partilha, Sucessões, DIREITO CIVIL",
+                "principal": "Sim"
+            }
+        ],
+        "partes": {
+            "autor": [
+                "- SANDRA DA SILVA SOUZA   (875.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156",
+                "- ADILSON DA SILVA   (035.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156",
+                "- CLAUDIA DA SILVA   (045.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156",
+                "- ELIANE DA SILVA DE LIMA   (036.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156",
+                "- IONE DA SILVA LANA   (996.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156",
+                "- JOAO PAULO DA SILVA   (051.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156",
+                "- RICARDO ALVES DA SILVA   (067.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156"
+            ],
+            "reu": [],
+            "outros": []
+        },
+        "informacoes_adicionais": {
+            "valor_da_causa": "107.767,00"
+        },
+        "eventos": [
+            {
+                "data_hora": "16/10/2025 04:04:48",
+                "descricao": "Publicado no DJEN - no dia 16/10/2025 - Refer. ao Evento: 11"
+            },
+            {
+                "data_hora": "15/10/2025 02:04:34",
+                "descricao": "Disponibilizado no DJEN - no dia 15/10/2025 - Refer. ao Evento: 11"
+            },
+            {
+                "data_hora": "14/10/2025 13:20:34",
+                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 10\n(REQUERENTE - ELIANE DA SILVA DE LIMA)\nPrazo: 60 dias Status:ABERTO\nData inicial da contagem do prazo: 17/10/2025 00:00:00\nData final: 13/02/2026 23:59:59"
+            },
+            {
+                "data_hora": "13/10/2025 15:04:52",
+                "descricao": "Proferido despacho de mero expediente"
+            },
+            {
+                "data_hora": "13/10/2025 11:39:09",
+                "descricao": "Remetidos os Autos (outros motivos) para a Vara/Turma de Origem - DISTRBHE -> BHE 4ª V.ScAs"
+            },
+            {
+                "data_hora": "13/10/2025 10:45:59",
+                "descricao": "Conclusos para Despacho"
+            },
+            {
+                "data_hora": "13/10/2025 10:45:59",
+                "descricao": "Expedição de Certidão"
+            },
+            {
+                "data_hora": "10/10/2025 02:16:18",
+                "descricao": "Disponibilizado no Diário Eletrônico - Ato Ordinatório - no dia 10/10/2025"
+            },
+            {
+                "data_hora": "09/10/2025 18:40:05",
+                "descricao": "Recebido pelo Distribuidor"
+            },
+            {
+                "data_hora": "09/10/2025 18:40:04",
+                "descricao": "Remetidos os Autos (outros motivos) para Central de Distribuição - BHE 4ª V.ScAs -> DISTRBHE"
+            }
+        ],
+        "nome_consultado": "ADILSON DA SILVA"
+    },
+    {
+        "numero_processo": "1000103-15.2025.8.13.0377",
+        "data_autuacao": "23/10/2025 18:17:17",
+        "situacao": "MOVIMENTO",
+        "juiz": "ALLAN MARTINS RIBEIRO",
+        "classe_acao": "PROCEDIMENTO DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA",
+        "orgao_julgador": {
+            "nome": "Juízo da Vara Única da Comarca de Lajinha",
+            "contato": "Fone: (33) 3344-1288 | Email: lja1secretaria@tjmg.jus.br"
+        },
+        "assuntos": [
+            {
+                "codigo": "011101",
+                "descricao": "Regime Estatutário, Servidor Público Civil, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+                "principal": "Sim"
+            }
+        ],
+        "partes": {
+            "autor": [
+                "- ADILSON DA SILVA   (057.**********)\n\n          LUCAS HENRIQUE PEREIRA   MG231437\n          MAGNA DA SILVA SOUZA   MG174602"
+            ],
+            "reu": [],
+            "outros": []
+        },
+        "informacoes_adicionais": {
+            "valor_da_causa": "11.105,56"
+        },
+        "eventos": [
+            {
+                "data_hora": "24/10/2025 02:13:06",
+                "descricao": "Disponibilizado no Diário Eletrônico - Ato Ordinatório - no dia 24/10/2025"
+            },
+            {
+                "data_hora": "23/10/2025 18:20:04",
+                "descricao": "Ato ordinatório praticado Documento encaminhado à disponibilização no Diário Eletrônico - no dia 24/10/2025"
+            },
+            {
+                "data_hora": "23/10/2025 18:17:19",
+                "descricao": "Juntada de certidão"
+            },
+            {
+                "data_hora": "23/10/2025 18:17:18",
+                "descricao": "Autos incluídos no Juízo 100% Digital"
+            },
+            {
+                "data_hora": "23/10/2025 18:17:17",
+                "descricao": "Distribuído por sorteio (LJA V. UNICA J)"
+            }
+        ],
+        "nome_consultado": "ADILSON DA SILVA"
+    },
+    {
+        "numero_processo": "1002309-19.2025.8.13.0145",
+        "data_autuacao": "21/10/2025 13:06:40",
+        "situacao": "MOVIMENTO-AGUARDA DESPACHO",
+        "juiz": "LUIZ AUGUSTO DE SOUZA MELO",
+        "classe_acao": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+        "orgao_julgador": {
+            "nome": "Juízo da 1ª Unidade Jurisdicional - 1º JD da Comarca de Juiz de Fora",
+            "contato": "Fone: (32) 3691-9873 | Email: jfajespcriminal@tjmg.jus.br"
+        },
+        "assuntos": [
+            {
+                "codigo": "02190502",
+                "descricao": "Cláusula Penal, Inadimplemento, Obrigações, DIREITO CIVIL",
+                "principal": "Sim"
+            }
+        ],
+        "partes": {
+            "autor": [],
+            "reu": [],
+            "outros": [
+                "- ADILSON DA SILVA   (039.**********)"
+            ]
+        },
+        "informacoes_adicionais": {
+            "valor_da_causa": "3.922,44"
+        },
+        "eventos": [
+            {
+                "data_hora": "22/10/2025 10:40:06",
+                "descricao": "Conclusos para Decisão"
+            },
+            {
+                "data_hora": "22/10/2025 10:39:23",
+                "descricao": "Expedição de Certidão"
+            },
+            {
+                "data_hora": "22/10/2025 02:06:24",
+                "descricao": "Disponibilizado no Diário Eletrônico - Ato Ordinatório - no dia 22/10/2025"
+            },
+            {
+                "data_hora": "21/10/2025 13:12:46",
+                "descricao": "Juntada de peças digitalizadas"
+            },
+            {
+                "data_hora": "21/10/2025 13:10:06",
+                "descricao": "Ato ordinatório praticado Documento encaminhado à disponibilização no Diário Eletrônico - no dia 22/10/2025"
+            },
+            {
+                "data_hora": "21/10/2025 13:06:43",
+                "descricao": "Juntada de certidão"
+            },
+            {
+                "data_hora": "21/10/2025 13:06:40",
+                "descricao": "Distribuído por sorteio (JFA 1ªUJC 1ºJD J)"
+            }
+        ],
+        "nome_consultado": "ADILSON DA SILVA"
+    },
+    {
+        "numero_processo": "1066534-23.2025.8.13.0024",
+        "data_autuacao": "09/10/2025 18:35:47",
+        "situacao": "MOVIMENTO",
+        "juiz": "ANTONIO LEITE DE PADUA",
+        "classe_acao": "INVENTÁRIO",
+        "orgao_julgador": {
+            "nome": "Juízo da 4ª Vara de Sucessões e Ausência da Comarca de Belo Horizonte",
+            "contato": "Fone: (31) 3330-6100 | Email: vsucessoes4@tjmg.jus.br"
+        },
+        "assuntos": [
+            {
+                "codigo": "022104",
+                "descricao": "Inventário e Partilha, Sucessões, DIREITO CIVIL",
+                "principal": "Sim"
+            }
+        ],
+        "partes": {
+            "autor": [
+                "- SANDRA DA SILVA SOUZA   (875.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156",
+                "- ADILSON DA SILVA   (035.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156",
+                "- CLAUDIA DA SILVA   (045.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156",
+                "- ELIANE DA SILVA DE LIMA   (036.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156",
+                "- IONE DA SILVA LANA   (996.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156",
+                "- JOAO PAULO DA SILVA   (051.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156",
+                "- RICARDO ALVES DA SILVA   (067.**********)\n\n          COSME GONÇALVES PEREIRA   MG160156"
+            ],
+            "reu": [],
+            "outros": []
+        },
+        "informacoes_adicionais": {
+            "valor_da_causa": "107.767,00"
+        },
+        "eventos": [
+            {
+                "data_hora": "16/10/2025 04:04:48",
+                "descricao": "Publicado no DJEN - no dia 16/10/2025 - Refer. ao Evento: 11"
+            },
+            {
+                "data_hora": "15/10/2025 02:04:34",
+                "descricao": "Disponibilizado no DJEN - no dia 15/10/2025 - Refer. ao Evento: 11"
+            },
+            {
+                "data_hora": "14/10/2025 13:20:34",
+                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 10\n(REQUERENTE - ELIANE DA SILVA DE LIMA)\nPrazo: 60 dias Status:ABERTO\nData inicial da contagem do prazo: 17/10/2025 00:00:00\nData final: 13/02/2026 23:59:59"
+            },
+            {
+                "data_hora": "13/10/2025 15:04:52",
+                "descricao": "Proferido despacho de mero expediente"
+            },
+            {
+                "data_hora": "13/10/2025 11:39:09",
+                "descricao": "Remetidos os Autos (outros motivos) para a Vara/Turma de Origem - DISTRBHE -> BHE 4ª V.ScAs"
+            },
+            {
+                "data_hora": "13/10/2025 10:45:59",
+                "descricao": "Conclusos para Despacho"
+            },
+            {
+                "data_hora": "13/10/2025 10:45:59",
+                "descricao": "Expedição de Certidão"
+            },
+            {
+                "data_hora": "10/10/2025 02:16:18",
+                "descricao": "Disponibilizado no Diário Eletrônico - Ato Ordinatório - no dia 10/10/2025"
+            },
+            {
+                "data_hora": "09/10/2025 18:40:05",
+                "descricao": "Recebido pelo Distribuidor"
+            },
+            {
+                "data_hora": "09/10/2025 18:40:04",
+                "descricao": "Remetidos os Autos (outros motivos) para Central de Distribuição - BHE 4ª V.ScAs -> DISTRBHE"
+            }
+        ],
+        "nome_consultado": "ADILSON DA SILVA"
+    },
+    {
+        "numero_processo": "1003164-02.2025.8.13.0079",
+        "data_autuacao": "23/10/2025 14:58:16",
+        "situacao": "MOVIMENTO",
+        "juiz": "LUCIANA NARDONI ALVARES DA SILVA",
+        "classe_acao": "PROCEDIMENTO DO JUIZADO ESPECIAL CÍVEL",
+        "orgao_julgador": {
+            "nome": "Juízo da 1ª Unidade Jurisdicional do Juizado Especial - 1º JD da Comarca de Contagem",
+            "contato": "Fone: (31) 2101-1553 | Email: cemjesp1uj@tjmg.jus.br"
+        },
+        "assuntos": [
+            {
+                "codigo": "060503",
+                "descricao": "Indenização por Dano Moral, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+                "principal": "Sim"
+            }
+        ],
+        "partes": {
+            "autor": [
+                "- RICARDO DE JESUS   (065.**********)"
+            ],
+            "reu": [],
+            "outros": []
+        },
+        "informacoes_adicionais": {
+            "valor_da_causa": "14.000,00"
+        },
+        "eventos": [
+            {
+                "data_hora": "29/10/2025 18:10:02",
+                "descricao": "Expedição de Carta pelo Correio - 1 carta"
+            },
+            {
+                "data_hora": "29/10/2025 18:07:18",
+                "descricao": "Ato ordinatório praticado"
+            },
+            {
+                "data_hora": "24/10/2025 02:08:08",
+                "descricao": "Disponibilizado no Diário Eletrônico - Ato Ordinatório - no dia 24/10/2025"
+            },
+            {
+                "data_hora": "23/10/2025 17:09:33",
+                "descricao": "Expedição de Certidão"
+            },
+            {
+                "data_hora": "23/10/2025 15:03:27",
+                "descricao": "Juntada de peças digitalizadas"
+            },
+            {
+                "data_hora": "23/10/2025 15:00:19",
+                "descricao": "Ato ordinatório praticado Documento encaminhado à disponibilização no Diário Eletrônico - no dia 24/10/2025"
+            },
+            {
+                "data_hora": "23/10/2025 14:58:20",
+                "descricao": "Audiência de conciliação designada - Local Sala 03 09:03 AUD14 M - https://x.gd/zcsgM - 04/02/2026 09:00"
+            },
+            {
+                "data_hora": "23/10/2025 14:58:19",
+                "descricao": "Juntada de certidão"
+            },
+            {
+                "data_hora": "23/10/2025 14:58:16",
+                "descricao": "Distribuído por sorteio (CEM 1ªUJC 1ºJD J)"
+            }
+        ],
+        "nome_consultado": "RICARDO DE JESUS"
+    },
+    {
+        "numero_processo": "1003164-02.2025.8.13.0079",
+        "data_autuacao": "23/10/2025 14:58:16",
+        "situacao": "MOVIMENTO",
+        "juiz": "LUCIANA NARDONI ALVARES DA SILVA",
+        "classe_acao": "PROCEDIMENTO DO JUIZADO ESPECIAL CÍVEL",
+        "orgao_julgador": {
+            "nome": "Juízo da 1ª Unidade Jurisdicional do Juizado Especial - 1º JD da Comarca de Contagem",
+            "contato": "Fone: (31) 2101-1553 | Email: cemjesp1uj@tjmg.jus.br"
+        },
+        "assuntos": [
+            {
+                "codigo": "060503",
+                "descricao": "Indenização por Dano Moral, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+                "principal": "Sim"
+            }
+        ],
+        "partes": {
+            "autor": [
+                "- RICARDO DE JESUS   (065.**********)"
+            ],
+            "reu": [],
+            "outros": []
+        },
+        "informacoes_adicionais": {
+            "valor_da_causa": "14.000,00"
+        },
+        "eventos": [
+            {
+                "data_hora": "29/10/2025 18:10:02",
+                "descricao": "Expedição de Carta pelo Correio - 1 carta"
+            },
+            {
+                "data_hora": "29/10/2025 18:07:18",
+                "descricao": "Ato ordinatório praticado"
+            },
+            {
+                "data_hora": "24/10/2025 02:08:08",
+                "descricao": "Disponibilizado no Diário Eletrônico - Ato Ordinatório - no dia 24/10/2025"
+            },
+            {
+                "data_hora": "23/10/2025 17:09:33",
+                "descricao": "Expedição de Certidão"
+            },
+            {
+                "data_hora": "23/10/2025 15:03:27",
+                "descricao": "Juntada de peças digitalizadas"
+            },
+            {
+                "data_hora": "23/10/2025 15:00:19",
+                "descricao": "Ato ordinatório praticado Documento encaminhado à disponibilização no Diário Eletrônico - no dia 24/10/2025"
+            },
+            {
+                "data_hora": "23/10/2025 14:58:20",
+                "descricao": "Audiência de conciliação designada - Local Sala 03 09:03 AUD14 M - https://x.gd/zcsgM - 04/02/2026 09:00"
+            },
+            {
+                "data_hora": "23/10/2025 14:58:19",
+                "descricao": "Juntada de certidão"
+            },
+            {
+                "data_hora": "23/10/2025 14:58:16",
+                "descricao": "Distribuído por sorteio (CEM 1ªUJC 1ºJD J)"
+            }
+        ],
+        "nome_consultado": "RICARDO DE JESUS"
+    }
+]
